@@ -33,14 +33,14 @@ body {
 /*============project section===============*/
 .my_projects_section,
 .my_courses_section {
-  margin-bottom: 50px;
+  margin-bottom: 10px;
 }
 .projects,
 .courses {
   font-size: 22px;
   font-weight: 700;
   font-style: normal;
-  line-height: 26.82px;
+  line-height: 6px;
 }
 
 .projects_list,
