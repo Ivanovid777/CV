@@ -4,7 +4,7 @@ body {
 }
 
 .full-info_about_me {
-  margin-top: 102px;
+  margin-top: 10px;
   padding-left: 90px;
   padding-right: 90px;
 }
@@ -24,7 +24,7 @@ body {
 }
 .about_me_section {
   background-color: #ffff;
-  margin-bottom: 40px;
+  margin-bottom: 10px;
 }
 
 .my_name {
@@ -85,7 +85,7 @@ body {
   font-size: 45px;
   font-weight: 700;
   font-style: normal;
-  line-height: 54.86px;
+  line-height: 20px;
 }
 .about_me {
   font-size: 14px;
@@ -99,7 +99,7 @@ body {
   font-weight: 700;
   font-style: normal;
   line-height: 26.82px;
-  margin-bottom: 12px;
+  margin-bottom: 5px;
 }
 
 .job_responsibilities,
@@ -118,9 +118,9 @@ body {
   font-size: 12px;
   font-weight: 400;
   font-style: normal;
-  line-height: 14.63px;
+  line-height: 5px;
   color: #a8a8a8;
-  margin: 11px auto 8px auto;
+  margin: 5px auto 5px auto;
 }
 .stick_separator {
   color: black;
